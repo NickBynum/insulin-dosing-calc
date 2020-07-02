@@ -1,19 +1,3 @@
 # insulin-calc
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## A Program build with Vue front end in order to calculate the dose of insulin that is needed before eating a meal.
